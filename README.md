@@ -1,2 +1,2 @@
-# plpbasicgitassignment
-this is basic git assignment on the plp platform
+# plp assignment
+this is the assignment on the plp platform
