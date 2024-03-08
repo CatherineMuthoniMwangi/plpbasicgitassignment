@@ -1,2 +1,4 @@
 # plp assignment
-this is the assignment on the plp platform
+##The portfolio assignment
+
+The folder contains the portfolio assignment from the web Technologies course of Week 1 introduction to HTML.
